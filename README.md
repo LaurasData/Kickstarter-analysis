@@ -9,11 +9,10 @@ Performing analysis on Kickstarter data to uncover trends
 - Grouped "Row Labels" by months in the Pivot table
 - Created Year() from Conversion date
 
-### Analysis of Outcomes Based on Goals
-#### While there are 1047 Kickstarter plays, none were canceled.
-    A. While there are 694 successfull Kickstarter plays, over 85% grossed less then $5000.
-    B. Outcomes_vs_Goals
-
+## Analysis of Outcomes Based on Goals
+    - While there are 694 successful Kickstarter Plays, over 300 failed but none were canceled.
+    - Over 85% grossed of the successful Kickstarter Plays grossed less then $5000.
+   
 ### Challenges and Difficulties Encountered
 - Created the converation dates and years in the pivot tables was resolved by referring to microsoft support for Countifs(), Years() and converstions.
 - Microsoft docs and overstock provided formulas 
@@ -25,8 +24,7 @@ Performing analysis on Kickstarter data to uncover trends
         1. May and June have the highest Theater rates of sucessful campaigns
     B. While there are 37 canceled  Kickstarter campaigns
         1. Jan has the highest Theater cancelaton rates.
-    C. Theater_Oucomes_vs_Launch.pgn
-
+   
 #### What can you conclude about the Play Outcomes based on Goals?
     A. While there are three types of Theater campaigns (Plays, Musicals, and Space)
         1. No Plays were canceled.
