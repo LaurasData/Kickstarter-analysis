@@ -10,8 +10,9 @@ Performing analysis on Kickstarter data to uncover trends
 - Created Year() from Conversion date
 
 ## Analysis of Outcomes Based on Goals
-    - While there are 694 successful Kickstarter Plays, over 300 failed but none were canceled.
-    - Over 85% grossed of the successful Kickstarter Plays grossed less then $5000.
+    - While there are 1047 Theater Kickstart Campaigns
+        694 were successful, 353 Theater Kickstart Campains Failed: but No Plays were canceled.
+    - Over 85% of the Successful Kickstarter Plays grossed less then $5000.
    
 ### Challenges and Difficulties Encountered
 - Created the converation dates and years in the pivot tables was resolved by referring to microsoft support for Countifs(), Years() and converstions.
