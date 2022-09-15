@@ -18,19 +18,19 @@ Performing analysis on Kickstarter data to uncover trends
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+#### What are two conclusions you can draw about the Outcomes based on Launch Date?
     A. While there are 839 successful theater campains, the months of May and June have the highest rates of sucessfully campaigns
     B. Conversely, While there are 37 canceled  Kickstarter campaigns, the month of Jan has the highest cancelaton rates.
     C. Theater_Oucomes_vs_Launch.pgn
 
-- What can you conclude about the Outcomes based on Goals?
-    
+#### What can you conclude about the Outcomes based on Goals?
     A. While there are 1047 Kickstarter plays, none were canceled.
     B. While there are 694 successfull Kickstarter plays, over 85% grossed less then $5000.
+    C. Outcomes_vs_Goals
 
-- What are some limitations of this dataset?
+#### What are some limitations of this dataset?
     A. Moving and renaming formulas was time consumming
 
-- What are some other possible tables and/or graphs that we could create?
+#### What are some other possible tables and/or graphs that we could create?
     A.Creating a Box and Whiskers graph can show the outliers for this dataset
     B.Creating a Stacked Bar graph will how the proportional comparisions
