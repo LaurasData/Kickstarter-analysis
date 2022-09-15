@@ -5,12 +5,14 @@ Performing analysis on Kickstarter data to uncover trends
 - Analysis of Kickstarter campaigns in relation to their launch dates and their funding goals.
 
 ## Analysis and Challenges
-
 - Created pivot tables and grouping in Excel to visualize campaign outcomes ("successful," "failed," and "canceled") based on launch date and funding goals
 - Grouped "Row Labels" by months in the Pivot table
 - Created Year() from Conversion date
 
 ### Analysis of Outcomes Based on Goals
+#### While there are 1047 Kickstarter plays, none were canceled.
+    A. While there are 694 successfull Kickstarter plays, over 85% grossed less then $5000.
+    B. Outcomes_vs_Goals
 
 ### Challenges and Difficulties Encountered
 - Created the converation dates and years in the pivot tables was resolved by referring to microsoft support for Countifs(), Years() and converstions.
@@ -32,5 +34,5 @@ Performing analysis on Kickstarter data to uncover trends
     A. Moving and renaming formulas was time consumming
 
 #### What are some other possible tables and/or graphs that we could create?
-    A.Creating a Box and Whiskers graph can show the outliers for this dataset
-    B.Creating a Stacked Bar graph will how the proportional comparisions
+    A. Creating a Box and Whiskers graph can show the outliers for this dataset
+    B. Creating a Stacked Bar graph will how the proportional comparisions
