@@ -9,7 +9,7 @@ Performing analysis on Kickstarter data to uncover trends
 - Grouped "Row Labels" by months in the Pivot table
 - Created Year() from Conversion date
 
-## Analysis of Outcomes Based on Goals
+### Analysis of Outcomes Based on Goals
     - While there are 1047 Theater Kickstart Campaigns
         694 were successful, 353 Theater Kickstart Campaigns Failed: but No Plays were canceled.
     - Over 85% of Successful Kickstarter Plays grossed less than $5000.
@@ -21,6 +21,8 @@ Performing analysis on Kickstarter data to uncover trends
 - https://www.unixtimestamp.com/
 - https://stackoverflow.com/questions/27065840/meaning-of-cells-rows-count-a-endxlup-row
 - https://docs.microsoft.com/en-us/office/vba/api/excel.worksheetfunction.countifs
+- https://github.com/LaurasData/Kickstarter-analysis/blob/Resources/Outcomes_vs_Goals.png
+- https://github.com/LaurasData/Kickstarter-analysis/blob/Resources/Theater_Outcomes_vs_Launch.png
 
 ## Results
 
